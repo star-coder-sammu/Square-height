@@ -49,10 +49,3 @@ function draw() {
 
 }
 
-function gotPoses(results)
-{
-    if(results.length > 0)
-    {
-        console.log(results);
-    }
-}
